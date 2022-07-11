@@ -1,0 +1,6 @@
+M
+4
+S OR W
+M OR -W
+B OR -S
+-B
