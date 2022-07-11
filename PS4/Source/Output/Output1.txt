@@ -1,0 +1,26 @@
+8
+-H OR K
+K
+C OR F OR -H
+-G OR -Q
+C OR F OR -K
+C OR F
+F OR G
+-G OR -K
+8
+K OR -Q
+F OR -H
+C OR F OR -Q
+C OR -G OR -H
+C OR -G
+F
+F OR -K
+F OR -Q
+3
+C OR -H OR K
+C OR K
+C OR -G OR -Q
+1
+C OR K OR -Q
+0
+NO

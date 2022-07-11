@@ -1,0 +1,14 @@
+4
+M OR S
+B OR W
+-W
+-S
+5
+S
+W
+B OR M
+M
+B
+1
+{}
+YES
